@@ -61,4 +61,4 @@ Filesystem                 Size  Used Avail Use% Mounted on
 
 ## Estado de cambios
 
-No se ejecutaron comandos de instalación, desinstalación, `pm disable-user`, cambio de launcher, escritura de ajustes, reinicio, root ni modificación de particiones. Los backups y el script de restauración corresponden a la siguiente fase y aún no se han generado. No existe todavía una captura del después.
+Este documento conserva las observaciones de la **Fase 1**, anteriores a las modificaciones. Posteriormente se aplicaron la limpieza ligera, los ajustes y el nuevo launcher descritos en [CAMBIOS.md](CAMBIOS.md). El launcher original permanece instalado y habilitado. La captura actual se encuentra en `after.png`.

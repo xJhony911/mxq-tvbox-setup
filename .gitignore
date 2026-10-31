@@ -10,6 +10,12 @@ adbkey*
 .env
 .env.*
 *.apk
+*.apk.idsig
+*.keystore
+*.jks
+*.zip
+*.class
+*.dex
 platform-tools/
 
 # Archivos temporales
