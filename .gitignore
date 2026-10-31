@@ -1,0 +1,19 @@
+# Resultados privados generados localmente
+local/
+work/
+backup_*.txt
+*private*.json
+
+# Credenciales, APK y herramientas locales
+.android/
+adbkey*
+.env
+.env.*
+*.apk
+platform-tools/
+
+# Archivos temporales
+*.tmp
+*.log
+Thumbs.db
+.DS_Store
